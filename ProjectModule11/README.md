@@ -1,4 +1,8 @@
-# AR Foundation Samples
+# Project Module 11
+
+- This repo is used to store a specific category throughout my learning experience in Unity within a particular branch beginning with module 11.
+
+## AR Foundation Samples
 
 Example projects that use [*AR Foundation 4.2*](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/index.html) and demonstrate its functionality with sample assets and components.
 

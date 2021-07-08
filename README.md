@@ -1,4 +1,4 @@
-# Project Modules 11 - present
+# Project Modules 10 - present
 
 - This repo is used to store a specific category throughout my learning experience in Unity within a particular branch beginning from module 11 to present.
 
