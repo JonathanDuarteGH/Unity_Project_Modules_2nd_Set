@@ -2,13 +2,13 @@
 
 - This repo is used to showcase my maze prototype project built using XR toolkits. These include the Oculus XR Plugin, XR Interaction Toolkit, XR Plugin Management, ProBuilder and ProGrids. XR Controller and XR Ray Cast Interaction was used to maneuver my character from point A to point B. At the same time the XR Grab Interaction was used to grasp items such as the golden key to open the locked door. ProGrids and ProBuilder enables me to design a suitable maze prototype for a top down idea on what my project would look like. My VR prototype features a locked corridor, a golden key, a computer room and a couple of props to give life to the maze. Below you will find screenshots of my entire playground as well as a link to my screencast.
 
-![Begnning Corridor](ProjectModule12/Images/Image1.png)
+![Begnning Corridor](Images/Image1.png)
 
-![End Corridor](ProjectModule12/Images/Image1.png)
+![End Corridor](Images/Image2.png)
 
-![Begnning Computer Room](ProjectModule12/Images/Image1.png)
+![Begnning Computer Room](Images/Image3.png)
 
-![End Computer Room](ProjectModule12/Images/Image1.png)
+![End Computer Room](Images/Image4.png)
 
 - [Link](https://drive.google.com/file/d/1PKhFr_a9Q2F9gZGIwS81P5DPpeYKjDg6/view?usp=sharing) to screencast
 
